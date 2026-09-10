@@ -102,7 +102,7 @@ game_2048/
 
 ## Author
 
-Built by **[Tim](https://github.com/tim-fullstack-programmer)**  
+Built by **[Tim](https://github.com/timignatenko)**  
 
 ---
 
